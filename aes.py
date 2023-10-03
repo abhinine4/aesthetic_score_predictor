@@ -58,7 +58,7 @@ class Aesthetic_predictor():
 
 if __name__ == "__main__":
     
-    img = Image.open('/home/csgrad/akumar58/Projects/aesthetics/real.jpg')
+    img = Image.open('/img_path')
 
     aesthetic_model = Aesthetic_predictor()
     aesthetic_model.OnInit()
