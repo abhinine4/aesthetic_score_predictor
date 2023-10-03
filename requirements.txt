@@ -1,0 +1,18 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+
+
+flask=3.0.0=pypi_0
+clip=1.0=pypi_0
+cudatoolkit=11.3.1=h2bc3f7f_2
+requests=2.31.0=py38h06a4308_0
+tokenizers=0.12.1=pypi_0
+torchvision=0.13.1=py38_cu113
+pytorch=1.12.1=py3.8_cuda11.3_cudnn8.3.2_0
+torchmetrics=0.6.0=pypi_0
+pillow=9.4.0=py38h6a678d5_1
+pip=20.3.3=py38h06a4308_0
+open-clip-torch=2.0.2=pypi_0
+opencv-contrib-python=4.3.0.36=pypi_0
+numpy=1.23.1=py38h6c91a56_0
