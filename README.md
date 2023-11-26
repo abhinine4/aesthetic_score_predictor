@@ -11,4 +11,4 @@
 - python app.py
 - visit http://127.0.0.1:5000
 
-![image info](https://github.com/abhinine4/aesthetic_score_predictor/blob/main/static/unsplash_bg.jpg)
+
